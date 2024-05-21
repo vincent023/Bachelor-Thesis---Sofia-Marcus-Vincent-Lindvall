@@ -1,0 +1,3 @@
+Skriv en metod som sorterar en array av heltal. Den ska minimera antal platsbyten som behöver göras. För en array med n heltal ska den maximalt behöva göra n - 1 platsbyten. Effektiviteten skall vara O(n^2) eller bättre. I katalogen P/HI1029/uppgift5 hittar du ett enkelt skal. (2p)
+
+Det är ju egentligen inte så intressant att minimera antalet platsbyten för en array av heltal men kan vara om man sorterar stora structar i C.

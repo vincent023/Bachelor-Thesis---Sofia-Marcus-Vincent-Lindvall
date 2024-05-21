@@ -1,0 +1,1 @@
+Write a program that sorts a list of integers. It should minimize the number of swaps required. For a list with n integers, it should require a maximum of n - 1 swaps. The efficiency should be O(n^2) or better.
